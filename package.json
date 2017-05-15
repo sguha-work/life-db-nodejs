@@ -1,0 +1,32 @@
+{
+  "name": "life-db-nodejs",
+  "version": "1.0.0",
+  "description": "This is a flat file database for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sguha-work/life-db-nodejs.git"
+  },
+  "keywords": [
+    "database",
+    "flatfile",
+    "nosql"
+  ],
+  "author": "Sahasrangshu Guha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sguha-work/life-db-nodejs/issues"
+  },
+  "homepage": "https://github.com/sguha-work/life-db-nodejs#readme",
+  "dependencies": {
+    "expres": "0.0.5",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.3.0",
+    "gulp-typescript": "^3.1.6",
+    "gulp-watch": "^4.3.11",
+    "typescript": "^2.3.2"
+  }
+}
